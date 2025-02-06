@@ -1,0 +1,7 @@
+Class: BankAccount
+Attributes: balance
+Methods:
+    1.__init__(self)
+    2.deposit(self, amount)
+    3.withdraw(self, amount)
+    4.get_balance(self)

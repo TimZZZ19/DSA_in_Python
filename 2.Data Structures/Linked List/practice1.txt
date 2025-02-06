@@ -1,0 +1,52 @@
+# Node class represents a single node in the linked list
+class Node:
+    def __init__(self, data):
+        self.data = data  # Store the data in the node
+        self.next = None  # Next node reference (initially None)
+
+
+# LinkedList class represents the linked list itself
+class LinkedList:
+    def __init__(self):
+        self.head = None  # The linked list starts with no nodes
+
+    # Method to append data to the linked list
+
+
+    # Method to print the linked list
+
+
+    # Method to search for a value in the linked list
+
+
+    # Method to delete a node with a specific value
+
+
+
+
+# Main method to test the LinkedList class
+def main():
+
+
+    # Append data to the linked list
+
+
+    # Print the list
+
+
+    # Search for a value
+
+
+    # Delete a value
+
+
+    # Print the list after deletion
+
+
+    # Try deleting a value that doesn't exist
+
+
+
+# Run the main method
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,8 @@
+Class: Library
+Attributes:
+    books: A list to store book titles.
+Methods:
+    1.__init__(self): Initializes the books list.
+    2.add_book(self, title): Adds a new book to the list.
+    3.search_by_title(self, title): Searches for a book by its title.
+    4.display_books(self): Prints out all book titles in the library.

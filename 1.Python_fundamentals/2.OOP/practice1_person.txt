@@ -1,0 +1,8 @@
+Class: Person
+Attributes: 
+    1.name
+    2.age
+Methods:
+    1.__init__(self, name, age)
+    2.greet(self)
+    3.is_adult(self)
